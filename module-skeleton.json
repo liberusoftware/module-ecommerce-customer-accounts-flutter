@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-customer-accounts-flutter",
+  "capabilityKey": "planned:ecommerce:customer-accounts",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_customer_accounts_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/customer-accounts.md",
+  "presentationPlan": "projects/ecommerce/flutter/customer-accounts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
